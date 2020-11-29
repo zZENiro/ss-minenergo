@@ -4,3 +4,6 @@
 [submodule "nrg"]
 	path = nrg
 	url = https://github.com/vasilyman/nrg
+[submodule "SS_ml"]
+	path = SS_ml
+	url = https://github.com/BraginIvan/SS_ml
