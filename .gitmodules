@@ -1,3 +1,6 @@
 [submodule "ssbackend"]
 	path = ssbackend
 	url = https://github.com/zZENiro/ssbackend
+[submodule "nrg"]
+	path = nrg
+	url = https://github.com/vasilyman/nrg
